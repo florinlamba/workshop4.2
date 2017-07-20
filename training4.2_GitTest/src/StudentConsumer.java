@@ -17,6 +17,7 @@ public class StudentConsumer {
 		int age = s.getAge();
 		System.out.println(age);
 		System.out.println("#######");
+		System.out.println("#t2#");
 		
 	}
 
