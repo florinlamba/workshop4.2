@@ -9,6 +9,14 @@ public class StudentConsumer {
 		s1.setAge(18);
 		
 		System.out.println("Hello student with name " + s1.getName() + " !");
+		StudentConsumer.displayAge(s1);
+	}
+	
+	public static void displayAge(Student s){
+		
+		int age = s.getAge();
+		System.out.println(age);
+		
 	}
 
 }
