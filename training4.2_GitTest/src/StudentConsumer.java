@@ -14,7 +14,7 @@ public class StudentConsumer {
 	
 	public static void displayAge(Student s){
 		
-		int age = s.getAge();
+		long age = s.getAge();
 		System.out.println(age);
 		System.out.println("#######");
 		System.out.println("#t2#");
