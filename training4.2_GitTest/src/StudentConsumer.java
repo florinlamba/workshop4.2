@@ -17,12 +17,11 @@ public class StudentConsumer {
 		long age = s.getAge();
 		System.out.println(age);
 		System.out.println("#######");
-<<<<<<< HEAD
+
 		System.out.println("#t2#");
 		
-=======
+
 		System.out.println("#t1#");
->>>>>>> branch 'master' of https://github.com/florinlamba/workshop4.2
 	}
 
 }
